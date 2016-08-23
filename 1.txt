@@ -1,0 +1,29 @@
+size  bgpd.h 589 //4096
+stream.c 113
+bgp_main.c 346
+bgp_packet.c 213
+bgp_update.c 378
+bgp_packet.c 592
+e_text=19,n_text=2537
+zebra_rib.c rib_add_ipv6 //不跑linux内核
+bgp_packet.c 1757 2379 update_len=0
+/usr/local/etc/bgpd.conf
+证书配置文件
+53144条路由
+有问题：16451 35323 14863 33733
+
+52673 //52236 52447
+52435 //fifo
+52313 //lfu
+
+bgp_packet.c update_len = 0
+
+114465条路由
+522565个三元组
+13797个不同的三元组
+
+273007
+523822
+13822
+set cache-size <num>
+set cache-strategy <s>
